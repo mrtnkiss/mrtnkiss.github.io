@@ -10,7 +10,7 @@ Pets which are included in the updated data file are those from the following ta
 
 ## Screenshots
 
-<img src="Images/korthia.jpg" width=400><img src="Images/oribos.jpg" width=400>
+[<img src="Images/korthia.jpg" width=400>](Images/korthia.jpg)[<img src="Images/oribos.jpg" width=400>](Images/oribos.jpg)
 
 ## Instructions
 
