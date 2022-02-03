@@ -2,7 +2,7 @@
 
 ## Summary
 
-There is an open issue for the missing Maw / Korthia pets in PetTracker Addon - https://github.com/Jaliborc/PetTracker/issues/266
+There is an open issue for the missing Maw / Korthia pets in PetTracker Addon - [https://github.com/Jaliborc/PetTracker/issues/266](https://github.com/Jaliborc/PetTracker/issues/266)
 
 I've started compiling the pets, and where they are found, and attached is a data file with the updates. The Data file is based on the 9.1.2 version as of 2022-02-03.
 
