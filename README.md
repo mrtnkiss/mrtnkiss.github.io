@@ -10,7 +10,7 @@ Pets which are included in the updated data file are those from the following ta
 
 ## Instructions
 
-Replace existing "Interface\AddOns\PetTracker\addons\main\api\data.lua" file with the attached data file: [data.lua](data/data.lua)
+Replace existing "Interface\AddOns\PetTracker\addons\main\api\data.lua" file with the attached data file: [data.lua](Data/data.lua)
 
 Have fun collecting the pets!
 
