@@ -8,6 +8,10 @@ I've started compiling the pets, and where they are found, and attached is a dat
 
 Pets which are included in the updated data file are those from the following table which have mapped coordinates. Coordinates currently are "raw", meaning they are not clustered, there are a lot of coords in a small radius. Also, I haven't looked into if it is possible to add "conditional" coordinates, e.g.: only show pets on the map when the appropriate Maw Assault is going on. Anyhow, this is a start, I'll look into the clustering issue if it can be fixed. 
 
+## Screenshots
+
+<img src="Images/korthia.jpg" width=400><img src="Images/oribos.jpg" width=400>
+
 ## Instructions
 
 Replace existing "Interface\AddOns\PetTracker\addons\main\api\data.lua" file with the attached data file: [data.lua](Data/data.lua)
